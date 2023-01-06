@@ -23,14 +23,14 @@ Note, that symbol definitions do not imply gap-columns at the edges and usually 
 
 - [x] 8x5 symbols (1 page, 5 cols)
 - [x] 16x9 symbols (2 pages, 9 cols)
-- [] 24x18 symbols (3 pages, 9 cols)
-- [] iconic fonts
-  - [] 5x5 status icons (1 page, 5 cols)
+- [ ] 24x18 symbols (3 pages, 9 cols)
+- [ ] iconic fonts
+  - [ ] 5x5 status icons (1 page, 5 cols)
     - battery
     - wireless
     - bluetooth
     - numbers
-  - [] 8x8 icons (1 page, 8 cols)
+  - [ ] 8x8 icons (1 page, 8 cols)
     - github
     - message
     - musical note
