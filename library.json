@@ -1,0 +1,24 @@
+{
+  "name": "PushedDisplayFonts",
+  "version": "0.0.1",
+  "description": "Font collection suitable also for PushedSSD1306, PushedST7560 etc. Part of PushedTime project.",
+  "keywords": "font",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/pushsla/pusheddisplayfonts.git"
+  },
+  "authors":
+  [
+    {
+      "name": "pushsla",
+      "email": "push2001sla@gmail.com",
+      "url": "https://slavakievsky.github.io"
+    }
+  ],
+  "license": "DBAD_PS (see LICENSE file)",
+  "homepage": "https://github.com/pushsla/pusheddisplayfonts.git",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "atmelavr, espressif32"
+}
